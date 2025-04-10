@@ -41,7 +41,7 @@ A simple web quiz game that evaluates and displays scores using HTML, CSS, and J
 
 **B.Tech in Computer Science and Engineering**  
 KCC Institute of Technology and Management  
-*2021 – 2026 (Expected)*
+*2022 – 2026 (Expected)*
 
 ---
 
