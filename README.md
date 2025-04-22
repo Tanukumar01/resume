@@ -6,7 +6,7 @@ Welcome to my resume repository! I’m **Tanu Kumar**, an aspiring Software Engi
 
 ## 📄 Resume
 
-👉 [**Download My Resume (PDF)**](./Tanu_Kumar_Resume.pdf)
+👉 [**Download My Resume (PDF)**](./Tanu-resume-new(3).pdf)
 
 ---
 
